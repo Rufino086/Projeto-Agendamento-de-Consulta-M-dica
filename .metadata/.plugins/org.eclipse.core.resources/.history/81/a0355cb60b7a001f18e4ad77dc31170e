@@ -1,0 +1,20 @@
+package FichaPaciente;
+
+import java.util.Scanner;
+
+//Implementar
+import java.util.Calendar;
+import java.util.Date;
+
+public class FichaPaciente {
+
+	protected String nomeComp;
+	protected date datanscimento;
+	protected char sexo;
+	protected String endereco;
+	protected
+	protected
+	protected
+	protected
+	protected
+}
