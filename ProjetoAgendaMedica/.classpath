@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/ant-1.10.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/ant-launcher-1.10.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/batik-anim-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/batik-awt-util-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/batik-bridge-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/batik-codec-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/batik-constants-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/batik-css-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/batik-dom-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/batik-ext-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/batik-gvt-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/batik-i18n-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/batik-parser-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/batik-script-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/batik-shared-resources-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/batik-svg-dom-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/batik-svggen-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/batik-svgrasterizer-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/batik-transcoder-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/batik-util-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/batik-xml-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/bcpkix-jdk15on-1.70.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/bcprov-jdk15on-1.70.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/bcutil-jdk15on-1.70.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/commons-collections4-4.5.0-M2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/commons-collections4-4.5.0-M2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/commons-collections4-4.5.0-M2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/commons-collections4-4.5.0-M2-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/commons-collections4-4.5.0-M2-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/commons-compress-1.27.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/commons-compress-1.27.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/commons-compress-1.27.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/commons-compress-1.27.1-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/commons-compress-1.27.1-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/commons-io-2.17.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/commons-io-2.17.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/commons-io-2.17.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/commons-io-2.17.0-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/commons-io-2.17.0-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/curvesapi-1.07.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/fontbox-2.0.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/graphics2d-0.40.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/guava-33.1.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/httpclient5-5.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/httpcore5-5.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/httpcore5-h2-5.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/jakarta.activation-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/jakarta.xml.bind-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/javaparser-core-3.25.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/javaparser-symbol-solver-core-3.25.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/javassist-3.30.2-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/log4j-api-2.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/log4j-api-2.23.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/pdfbox-2.0.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/poi-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/poi-examples-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/poi-excelant-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/poi-javadoc-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/poi-ooxml-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/poi-ooxml-full-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/poi-ooxml-lite-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/poi-scratchpad-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/Saxon-HE-12.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/xml-apis-ext-1.3.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/xmlbeans-5.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/xmlbeans-5.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/xmlbeans-5.2.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/xmlbeans-5.2.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/xmlgraphics-commons-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/xmlresolver-5.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/xmlresolver-5.2.2-data.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NITRO 5/Desktop/Univas/Java/LIBS/javas/xmlsec-3.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
